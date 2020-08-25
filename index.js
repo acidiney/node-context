@@ -3,7 +3,7 @@
  * All files from a path using regular expression
  * Returns an array of full path file
  *
- * @author Acidiney Dias <acidiney.dias@ideiasdinamicas.com>
+ * @author Acidiney Dias <acidineydias@gmail.com>
  * @version 1.0.0
  * @returns { Array<string> }
  */
