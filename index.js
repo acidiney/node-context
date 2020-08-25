@@ -1,3 +1,13 @@
+/**
+ * The context function help to load context from a path
+ * All files from a path using regular expression
+ * Returns an array of full path file
+ *
+ * @author Acidiney Dias <acidiney.dias@ideiasdinamicas.com>
+ * @version 1.0.0
+ * @returns { Array<string> }
+ */
+
 const fs = require("fs");
 const path = require("path");
 
