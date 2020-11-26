@@ -3,16 +3,20 @@
   "version": "1.0.0",
   "description": "Use context",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/acidiney/node-context.git"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": [
+    "node-context",
+    "webpack-require",
+    "require",
+    "modules",
+    "folder-require",
+    "regex"
+  ],
+  "author": "Acidiney Dias <hello@acidineydias.me>",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/acidiney/node-context/issues"
   },
