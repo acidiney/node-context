@@ -1,5 +1,5 @@
 {
-  "name": "use-context",
+  "name": "@hooks/context",
   "version": "1.0.0",
   "description": "Use context",
   "main": "index.js",
